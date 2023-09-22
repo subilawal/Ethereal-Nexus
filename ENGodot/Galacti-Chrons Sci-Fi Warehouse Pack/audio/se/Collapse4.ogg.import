@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Collapse4.ogg-8ad99a57832ac44a22525a9e64442a6f.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/Collapse4.ogg"
+dest_files=[ "res://.import/Collapse4.ogg-8ad99a57832ac44a22525a9e64442a6f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

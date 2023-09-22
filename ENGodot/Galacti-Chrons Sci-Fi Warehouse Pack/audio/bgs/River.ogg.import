@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/River.ogg-99d767969c776483d98fa004d2f098a0.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/bgs/River.ogg"
+dest_files=[ "res://.import/River.ogg-99d767969c776483d98fa004d2f098a0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

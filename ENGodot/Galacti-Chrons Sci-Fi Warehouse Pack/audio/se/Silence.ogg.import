@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Silence.ogg-f1e013ced95c0b40c7407e799758a990.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/Silence.ogg"
+dest_files=[ "res://.import/Silence.ogg-f1e013ced95c0b40c7407e799758a990.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

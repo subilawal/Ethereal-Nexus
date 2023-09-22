@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Sea.ogg-dedf80d8e7975298659541e37ee8d1f7.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/bgs/Sea.ogg"
+dest_files=[ "res://.import/Sea.ogg-dedf80d8e7975298659541e37ee8d1f7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

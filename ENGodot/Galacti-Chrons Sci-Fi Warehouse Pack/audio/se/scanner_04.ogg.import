@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/scanner_04.ogg-1fccccfe8d53d6fe7dde5dee42f5de32.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/scanner_04.ogg"
+dest_files=[ "res://.import/scanner_04.ogg-1fccccfe8d53d6fe7dde5dee42f5de32.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/blaster_25.ogg-6378d9f9bfaeb20609b10ac0d4c4ab1f.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/blaster_25.ogg"
+dest_files=[ "res://.import/blaster_25.ogg-6378d9f9bfaeb20609b10ac0d4c4ab1f.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

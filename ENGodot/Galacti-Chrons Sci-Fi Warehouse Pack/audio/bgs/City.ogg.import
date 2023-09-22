@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/City.ogg-366512f53c4d8dd37075ec8ead369fbb.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/bgs/City.ogg"
+dest_files=[ "res://.import/City.ogg-366512f53c4d8dd37075ec8ead369fbb.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

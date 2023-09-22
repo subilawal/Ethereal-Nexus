@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Evasion2.ogg-6e09a1454cb22dcde3cd5c2a3c612ff1.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/Evasion2.ogg"
+dest_files=[ "res://.import/Evasion2.ogg-6e09a1454cb22dcde3cd5c2a3c612ff1.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

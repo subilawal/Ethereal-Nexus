@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/turbolift_05.ogg-f7a8666d90cb3b6ba38f261024b8574c.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/turbolift_05.ogg"
+dest_files=[ "res://.import/turbolift_05.ogg-f7a8666d90cb3b6ba38f261024b8574c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

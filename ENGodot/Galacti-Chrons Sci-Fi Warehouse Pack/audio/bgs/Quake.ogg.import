@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Quake.ogg-3c63b24e7d01de1efe5e51071edee443.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/bgs/Quake.ogg"
+dest_files=[ "res://.import/Quake.ogg-3c63b24e7d01de1efe5e51071edee443.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

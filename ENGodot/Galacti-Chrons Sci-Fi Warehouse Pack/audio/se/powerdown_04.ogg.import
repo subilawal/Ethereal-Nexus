@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/powerdown_04.ogg-bb72c03e7ac9e6cbf58c4f9cd6a39c2b.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/powerdown_04.ogg"
+dest_files=[ "res://.import/powerdown_04.ogg-bb72c03e7ac9e6cbf58c4f9cd6a39c2b.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

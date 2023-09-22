@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Blow1.ogg-8eb423becab59ad2bdcaea87398c9633.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/Blow1.ogg"
+dest_files=[ "res://.import/Blow1.ogg-8eb423becab59ad2bdcaea87398c9633.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

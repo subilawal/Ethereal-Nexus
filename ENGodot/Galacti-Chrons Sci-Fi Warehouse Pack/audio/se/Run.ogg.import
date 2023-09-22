@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Run.ogg-4a955232d74b2a21146d49daabeabad6.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/Run.ogg"
+dest_files=[ "res://.import/Run.ogg-4a955232d74b2a21146d49daabeabad6.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

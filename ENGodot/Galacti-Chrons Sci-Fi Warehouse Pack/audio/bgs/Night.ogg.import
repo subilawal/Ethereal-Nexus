@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Night.ogg-6715aec2fb0d9059ef6cc360fbcdc180.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/bgs/Night.ogg"
+dest_files=[ "res://.import/Night.ogg-6715aec2fb0d9059ef6cc360fbcdc180.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

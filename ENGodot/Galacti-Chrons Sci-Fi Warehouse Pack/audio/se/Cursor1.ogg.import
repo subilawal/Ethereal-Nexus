@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Cursor1.ogg-fbaa1afb55e2c7f797b6726cbbae86c7.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/Cursor1.ogg"
+dest_files=[ "res://.import/Cursor1.ogg-fbaa1afb55e2c7f797b6726cbbae86c7.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Storm1.ogg-647135b5e12a2a186a424ec6dcb768d2.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/bgs/Storm1.ogg"
+dest_files=[ "res://.import/Storm1.ogg-647135b5e12a2a186a424ec6dcb768d2.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

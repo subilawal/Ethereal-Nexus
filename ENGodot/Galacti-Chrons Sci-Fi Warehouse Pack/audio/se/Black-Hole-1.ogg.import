@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Black-Hole-1.ogg-1a73a2298b5656e85b4fd7f3b0942938.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/Black-Hole-1.ogg"
+dest_files=[ "res://.import/Black-Hole-1.ogg-1a73a2298b5656e85b4fd7f3b0942938.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

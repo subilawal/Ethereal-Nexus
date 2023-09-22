@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Drips.ogg-2188aaa3fba8956c8ad247bd49ad35da.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/bgs/Drips.ogg"
+dest_files=[ "res://.import/Drips.ogg-2188aaa3fba8956c8ad247bd49ad35da.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0

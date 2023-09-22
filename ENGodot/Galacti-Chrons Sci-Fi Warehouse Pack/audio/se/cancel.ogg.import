@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/cancel.ogg-b7792477807ad45f8a52439adafb957c.oggstr"
+
+[deps]
+
+source_file="res://Galacti-Chrons Sci-Fi Warehouse Pack/audio/se/cancel.ogg"
+dest_files=[ "res://.import/cancel.ogg-b7792477807ad45f8a52439adafb957c.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
