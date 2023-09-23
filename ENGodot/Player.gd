@@ -79,19 +79,10 @@ func _is_moving():
 #	pass
 
 
-func _on_Player_is_moving():
-	if moving == true:
-		return true
-	pass # Replace with function body.
-
-
 func _on_Timer_timeout():
-	$Timer.wait_time = rand_range(10, 30)
 	$CatSprite/AnimationPlayer.play("lick")
 	$CatSprite/AnimationPlayer.play("lick")
-	pass # Replace with function body.
 
 
-func _on_Chest_area_entered(area):
-	emit_signal("open_chest")
-	pass # Replace with function body.
+#func _on_Chest_area_entered(area):
+	#emit_signal("open_chest")

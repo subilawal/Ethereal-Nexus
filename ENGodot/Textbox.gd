@@ -51,7 +51,7 @@ func show_tb():
 func show_text():
 	var camera_pos_x = get_parent().get_node("Player/Camera2D").position.x
 	var camera_pos_y = get_parent().get_node("Player/Camera2D").position.y
-	var tb_pos = Vector2(camera_pos_x + 125, camera_pos_y + 435)
+	var tb_pos = Vector2(camera_pos_x + 115, camera_pos_y + 435)
 	set_offset(tb_pos)
 	var new_text = queue.pop_front()
 	label_text.text = new_text
@@ -68,7 +68,5 @@ func _on_Tween_tween_completed(object, key):
 	change_state(State.finish)
 
 
-
-func _on_Chest_area_entered(area):
+func _on_Chest_sword():
 	text_queue("You have unlocked an ancient sword!")
-	pass # Replace with function body.

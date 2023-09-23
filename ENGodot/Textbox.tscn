@@ -24,6 +24,7 @@ margin_right = 214.0
 margin_bottom = 39.0
 
 [node name="Panel" type="Panel" parent="TextBoxContainer"]
+self_modulate = Color( 1, 1, 1, 0.505882 )
 margin_right = 214.0
 margin_bottom = 39.0
 custom_styles/panel = SubResource( 1 )
